@@ -14,13 +14,6 @@ There is a company Boombikes and has suffered considerable dips due to corona. N
 - The buiness proiblem is to understand various given features and to make predictions on those features to check the effects of those features on bike-sharing and come up with a mindful business plan to accelerate revenue.
 - day.csv
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
