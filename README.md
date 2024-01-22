@@ -6,7 +6,6 @@ There is a company Boombikes and has suffered considerable dips due to corona. N
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 
 
 ## General Information
